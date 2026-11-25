@@ -66,4 +66,4 @@ All recommendations cite their evidence level:
 
 ## License
 
-Proprietary — Tutorhelpme / Margen. All rights reserved.
+Proprietary — MargenCRO. All rights reserved.
